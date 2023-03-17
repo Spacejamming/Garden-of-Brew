@@ -1,17 +1,19 @@
 {
 	"_meta": {
+        "dateAdded": 0,
+        "dateLastModified": 0,
 		"sources": [
 			{
 				"json": "GuiltyGear",
 				"abbreviation": "GG",
 				"full": "Garden of Glass",
-				"url": "",
 				"authors": [
 					"SpaceJamming"
 				],
 				"convertedBy": [
 					"SpaceJamming"
-				]
+				],
+                "version": "1.0"
 			}
 		]
 	},
