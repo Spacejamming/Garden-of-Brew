@@ -71,16 +71,37 @@
 					]
 				},
 				{
-					"name": "Talons",
+					"name": "Overdrive",
 					"entries": [
-						"Your talons are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to {@damage 1d4} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+						"Once per turn before you make an attack on a single creature with a weapon or spell foci, you can expend a number of Hit Die up to and equal to your proficiency modifier. Upon hitting the target, you deal an additional {@damage 1d8} radiant damage for each Hit die burnt."
 					],
 					"type": "entries"
 				},
 				{
+					"type": "entries",
+					"name": "Construct Arcana",
+					"entries": [
+						"With an artificial body and soul, you are immune to magical ageing effects."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Near-Perfect Replica",
+					"entries": [
+						"When selecting feats and attuning to magic items, you count as the race specified in your chosen lineage."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Empty Rest",
+					"entries": [
+						"While you do not require sleep and cannot be magically put to sleep as other creatures would. You still require to rest for 8 hours, during such time you are inert and are considered unconscious."
+					]
+				},
+				{
 					"name": "Language",
 					"entries": [
-						"You can speak, read, and write Common, Synthetic, and Auran."
+						"You can speak, read, and write Common and one other languages that you and your DM agree is appropriate for the character. If you are replacing your race with this lineage, you retain any languages you had and gain no new languages."
 					],
 					"type": "entries"
 				}
