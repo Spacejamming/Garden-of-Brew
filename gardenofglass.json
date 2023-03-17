@@ -1,0 +1,88 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "GuiltyGear",
+				"abbreviation": "GG",
+				"full": "Garden of Glass",
+				"url": "",
+				"authors": [
+					"SpaceJamming"
+				],
+				"convertedBy": [
+					"SpaceJamming"
+				]
+			}
+		]
+	},
+	"race": [
+		{
+			"name": "Synthetic",
+			"source": "GuiltyGear",
+			"page": 1,
+			"size": [
+				"M",
+				"L"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"skillProficiencies": [
+				{
+					"any": 2
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"The chronological age of known synthetics ranges between five and twenty years old, however, their apparent or visible age has been known to range wildly. The maximum lifespan of synthetics remains a mystery; so far, synthetics have shown no signs of deterioration due to age."
+					]
+				},
+				{
+					"name": "Alignment",
+					"type": "entries",
+					"entries": [
+						"Synthetics, unless given one during the fabrication of their soul, rarely have a defining personality early in their life, until they encounter events that would force them to adapt to such. Their alignment in this case ranges the entire spectrum and is far more likely to be dictated by their initial experiences than any strong argument, one way or another."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Ancestral Legacy",
+					"entries": [
+						"When you replace a race with this lineage, you keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.",
+						"If you don't keep any of those elements or you choose this lineage at character creation, you gain proficiency in two skills of your choice."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"You inherit the size of your original race when picking this lineage."
+					]
+				},
+				{
+					"name": "Talons",
+					"entries": [
+						"Your talons are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to {@damage 1d4} + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Language",
+					"entries": [
+						"You can speak, read, and write Common, Synthetic, and Auran."
+					],
+					"type": "entries"
+				}
+			]
+		}
+	]
+}
