@@ -1,5 +1,7 @@
 {
 	"_meta": {
+		"dateAdded": 18032023,
+		"dateLastModified": 20032023,
 		"sources": [
 			{
 				"json": "GG",
@@ -17,10 +19,23 @@
 			}
 		]
 	},
+	"item": [
+		{
+			"name": "Zeal Caster (1st Level)",
+			"source": "GG",
+			"type": "SC",
+			"rarity": "common",
+			"tier": "minor",
+			"entries": [
+				"A zeal caster bears mechanical components to contain and recite the mystical cipher required to cast a single spell. Upon being fueled with the appropriate Zeal Fuel and any material compents (If the spell requires them). Casting the spell by activating the zeal caster requires the spell's normal casting time. Once the spell is cast the expended fuel and material components crumble to dust.If the casting is interrupted, the components are not lost.",
+				"If the user wishes to upcast the spell listed on the item, they must expend the appropriately leveled Zeal Fuel when activating the item. When casting a spell this way, you must make an ability check using your intelligence modifier or your spellcasting ability if you have one"
+			]
+		}
+	],
 	"race": [
 		{
 			"name": "Synthetic",
-			"source": "GuiltyGear",
+			"source": "GG",
 			"page": 1,
 			"size": [
 				"M",
