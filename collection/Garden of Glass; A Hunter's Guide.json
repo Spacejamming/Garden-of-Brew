@@ -29,7 +29,6 @@
 			"type": "ZC",
 			"rarity": "varies",
 			"items": [
-				"Zeal Caster (Cantrip",
 				"Zeal Caster (1st Level)",
 				"Zeal Caster (2nd Level)",
 				"Zeal Caster (3rd Level)",
@@ -45,7 +44,56 @@
 				"If the user wishes to upcast the spell listed on the item, they must expend the appropriately leveled Zeal Fuel when activating the item. When doing such, you must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the desired upcast level - the spell's original level. If successful, the spell is cast; otherwise, all material components used, including the fuel, are destroyed.",
 				"Whether the check succeeds or fails, the Zeal Caster is damaged beyond use and can only be fixed upon succeeding a Dex (Tinker's Tools) check. The Repair DC can be found in the following table. If any attempted repair check fails, the item is destroyed."
 			]
+		},
+		{
+			"name": "Zil Pod (Ammo)",
+			"source": "GG",
+			"type": "A",
+			"value": 100,
+			"entries": [
+				"A Zil-pod specialised for use in most modern weapons in the world of Etheria, this Zil-pod is easy to purchase in most urban areas",
+				"Unless otherwise stated this is the ammunition used in all regular firearms"
+			]
+		},
+		{
+			"name": "Zil Pod",
+			"source": "GG",
+			"type": "A",
+			"rarity": "varies",
+			"items": [
+				"Zil Pod (1st Level)",
+				"Zil Pod (2nd Level)",
+				"Zil Pod (3rd Level)",
+				"Zil Pod (4th Level)",
+				"Zil Pod (5th Level)",
+				"Zil Pod (6th Level)",
+				"Zil Pod (7th Level)",
+				"Zil Pod (8th Level)",
+				"Zil Pod (9th Level)"
+			],
+			"entries": [
+				"Used in all magically enhanced life in the modern age of Etheria, these small pods vary in design and colour depending on the spell level that they hold. Upon use the liquid inside turns into an ash-like substance and eventually decays into nothing.",
+				"If the Zil-Pod is broken and exposed to air the liquid quickly hardens into a black charcoal like material"
+			]
+		},
+		{
+			"name": "Yo-Yo",
+			"source": "GG",
+			"type": "M",
+			"rarity": "none",
+			"weight": 4,
+			"value": 200,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"R"
+			],
+			"dmg1": "1d4",
+			"dmgType": "B",
+			"weapon": true,
+			"entries": []
 		}
+		
 	],
 	"race": [
 		{
